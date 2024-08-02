@@ -21,5 +21,7 @@
 </form>
 
 <a href="{{ route('contacts.index') }}">Back to Contacts List</a>
+
+
 </body>
 </html>
